@@ -1,0 +1,33 @@
+Drink, Hurricane margarita, 6.75, Vegan, 260, alcoholic
+Drink, Sangria Margarita, 6.75, Vegan, 260, alcoholic
+Drink, Jamaican Cowboy margarita, 6.75, Vegan, 240, alcoholic
+Drink, Armadillo Punch, 6.99, Vegan, 130, alcoholic
+Drink, Texas Peach Fuzz, 9.99, Vegan, 160, alcoholic
+Drink, Coca-Cola, 1.99, Vegan, 120, not alcoholic
+Drink, Diet Coke, 1.99, Vegan, 0, not alcoholic
+Drink, Sprite, 1.99, Vegan, 70, not alcoholic
+Drink, Minute Maid Lemonade, 1.99, Vegan, 80, not alcoholic
+Drink, Peach Iced Tea, 3.49, Vegan, 140, not alcoholic
+Drink, Raspberry Iced Tea, 3.49, Vegan, 130, not alcoholic
+Drink, Original Iced Tea, 3.49, Vegan, 110, not alcoholic
+Drink, Wild Strawberry Lemonade, 3.49, Vegan, 90, not alcoholic
+Drink, Blue Crush Lemonade, 3.49, Vegan, 90, not alcoholic
+Drink, Red Raspberry Lemonade, 3.49, Vegan, 90, not alcoholic
+Drink, Water, 2.99, Vegan, 0, not alcoholic
+Food, All-American Cheeseburger, 8.99, Not Vegan, 880, not alcoholic
+Food, Bacon Cheeseburger, 9.99, Not Vegan, 980, not alcoholic
+Food, Smokehouse Burger, 9.99, Not Vegan, 1080, not alcoholic
+Food, Pulled Pork Sandwich, 8.99, Not Vegan, 870, not alcoholic
+Food, BBQ Chicken Sandwich, 8.99, Not Vegan, 640, not alcoholic
+Food, Mushroom Jack Chicken Sandwich, 9.99, Not Vegan, 710, not alcoholic
+Food, Grilled Chicken Salad, 9.99, Not Vegan, 400, not alcoholic
+Food, Chicken Caesar Salad, 9.99, Not Vegan, 810, not alcoholic
+Food, Chicken Critter Salad, 9.99, Not Vegan, 360, not alcoholic
+Food, Steakhouse Filet Salad, 13.99, Not Vegan, 1340, not alcoholic
+Food, House Salad, 3.99, Vegan, 230, not alcoholic
+Food, Caesar Salad, 3.99, Vegan, 440, not alcoholic
+Food, Filet Medallions, 19.99, Not Vegan, 760, not alcoholic
+Food, Bone-In Ribeye, 24.99, Not Vegan, 1480, not alcoholic
+Food, Porterhouse T-Bone, 26.99, Not Vegan, 1040, not alcoholic
+Food, Road Kill, 9.99, Not Vegan, 760, not alcoholic
+Food, Steak Cabob, 10.99, Not Vegan, 920, not alcoholic
