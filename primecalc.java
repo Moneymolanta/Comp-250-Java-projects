@@ -1,12 +1,3 @@
-/*
-Name:
-Semester/Year:
-Desc:
-I Received Help From:
-I affirm that my work upholds the highest standards of honesty and academic integrity at 
-Wittenberg and that I have neither given nor received unauthorized assistance.
-*/
-
 import java.util.Scanner;
 
 public class primecalc {
@@ -29,7 +20,5 @@ public class primecalc {
         }
 
         keyboard.close();
-
     }
-
 }
